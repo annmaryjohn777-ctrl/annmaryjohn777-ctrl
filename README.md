@@ -1,16 +1,25 @@
-## Hi there 👋
 
-<!--
-**annmaryjohn777-ctrl/annmaryjohn777-ctrl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there 👋, I'm Annmary
 
-Here are some ideas to get you started:
+🎓 Computer Science Student
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently learning:
+
+* Artificial Intelligence (AI)
+* Machine Learning (ML)
+* Python Programming
+* Robotics
+
+🔭 Projects:
+
+* AI-Based BMI Calculator
+* Student Score Prediction System
+* Sensor Alert System
+
+
+📫 How to reach me:
+
+* GitHub: annmaryjohn777-ctrl
+
+⚡ Fun fact:
+I enjoy learning new AI technologies and building practical projects.
